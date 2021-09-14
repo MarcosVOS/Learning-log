@@ -9,5 +9,5 @@ psycopg==3.0b1
 pycodestyle==2.7.0
 pytz==2021.1
 soupsieve==2.2.1
-sqlparse==0.4.1
+sqlparse==0.4.2
 toml==0.10.2
